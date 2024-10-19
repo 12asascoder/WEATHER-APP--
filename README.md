@@ -1,2 +1,3 @@
 # WEATHER-APP--
 THIS IS A WEATHER WEBSITE APPLICATION USING CSS AND HTML AND JAVASCRIPT
+Features Displays current weather conditions for a given location Allows users to search for weather by city or zip code Provides 5-day weather forecast Responsive design for optimal viewing on desktop and mobile devices Technologies Used HTML5 for structuring content CSS3 for styling and layout JavaScript for dynamic functionality and API interactions OpenWeatherMap API for weather data Files and Folders index.html: The main entry point for the app styles.css: CSS styles for the app script.js: JavaScript code for the app images/: Folder containing images used in the app
